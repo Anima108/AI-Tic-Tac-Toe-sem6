@@ -1,4 +1,4 @@
-# [Microsoft-Codess Tic-Tac-Toe! ⭕️ ❌ ⭕️]( https://codess-tic-tac-toe.herokuapp.com/  )
+# [AI Tic-Tac-Toe! ⭕️ ❌ ⭕️]( https://codess-tic-tac-toe.herokuapp.com/  )
 
 #### A 'Mars Colonization :volcano:' theme web application which makes use of the minimax algorithm to create an unbeatable version of the famous Noughts and Crosses game!  
 
@@ -209,8 +209,6 @@ Bootstrap is a free and open-source front-end library for creating websites and 
 # Contributors: 
 :octocat: [Akanksha](https://github.com/akankshatanwar1701)  
 :octocat: [Anima](https://github.com/Anima108/)  
-:octocat: [Shreoshi](https://github.com/shreoshi-roy)   
-
 -----------------------------------
 # References :books: :
 [AI Tic-Tac-Toe](https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d#:~:text=Minimax%20is%20a%20recursive%20algorithm,minimize%20the%20worst%20case%20scenario)  
